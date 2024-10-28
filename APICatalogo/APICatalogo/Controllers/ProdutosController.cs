@@ -21,7 +21,7 @@ namespace APICatalogo.Controllers
         public ActionResult<IEnumerable<Produto>> Get()
         {
             var produtos = _context.Produtos.ToList();
-            if(produtos is null)
+            if (produtos is null)
             {
                 return NotFound("Produtos não encontrados...");
             }
@@ -31,8 +31,8 @@ namespace APICatalogo.Controllers
         [HttpGet("{id:int}", Name = "ObterProduto")]
         public ActionResult<Produto> Get(int id)
         {
-            var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoId == id); 
-            if(produto is null)
+            var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoId == id);
+            if (produto is null)
             {
                 return NotFound("Produto não encontrado...");
             }
@@ -40,7 +40,7 @@ namespace APICatalogo.Controllers
         }
 
         [HttpPost]
-         public ActionResult Post(Produto produto)
+        public ActionResult Post(Produto produto)
         {
             if (produto is null)
                 return BadRequest();
@@ -51,10 +51,10 @@ namespace APICatalogo.Controllers
             return new CreatedAtRouteResult("ObterProduto", new { id = produto.ProdutoId }, produto);
         }
 
-        [HttpPut ("{id:int}")]
+        [HttpPut("{id:int}")]
         public ActionResult Put(int id, Produto produto)
         {
-            if(id != produto.ProdutoId) 
+            if (id != produto.ProdutoId)
                 return BadRequest();
 
             _context.Entry(produto).State = EntityState.Modified;
@@ -74,7 +74,7 @@ namespace APICatalogo.Controllers
             _context.Produtos.Remove(produto);
             _context.SaveChanges();
 
-            return Ok(produto); 
+            return Ok(produto);
         }
     }
 }
