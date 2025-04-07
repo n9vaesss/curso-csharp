@@ -1,0 +1,15 @@
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\bin\Debug\net8.0\exemplo02.exe
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\bin\Debug\net8.0\exemplo02.deps.json
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\bin\Debug\net8.0\exemplo02.runtimeconfig.json
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\bin\Debug\net8.0\exemplo02.dll
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\bin\Debug\net8.0\exemplo02.pdb
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.AssemblyInfoInputs.cache
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.AssemblyInfo.cs
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.csproj.CoreCompileInputs.cache
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.sourcelink.json
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.dll
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\refint\exemplo02.dll
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.pdb
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\exemplo02.genruntimeconfig.cache
+C:\Users\caio.novaes_ololu\Documents\Estudos\curso-csharp\secao-4-classes-atributos-metodos-membros-estaticos\exemplo02\obj\Debug\net8.0\ref\exemplo02.dll
