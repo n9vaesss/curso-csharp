@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caio.novaes_ololu\\Documents\\Estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B796E691-FAC5-4583-9207-9ACB3A5CCBE1}|exercicio01.csproj|c:\\users\\caio.novaes_ololu\\documents\\estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B796E691-FAC5-4583-9207-9ACB3A5CCBE1}|exercicio01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B796E691-FAC5-4583-9207-9ACB3A5CCBE1}|exercicio01.csproj|c:\\users\\caio.novaes_ololu\\documents\\estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B796E691-FAC5-4583-9207-9ACB3A5CCBE1}|exercicio01.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 934,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\caio.novaes_ololu\\Documents\\Estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Users\\caio.novaes_ololu\\Documents\\Estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:19:48.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caio.novaes_ololu\\Documents\\Estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\caio.novaes_ololu\\Documents\\Estudos\\curso-csharp\\secao-4-classes-atributos-metodos-membros-estaticos\\exercicio01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:19:05.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
